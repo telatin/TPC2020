@@ -83,7 +83,11 @@ I'm grateful for the opportunity of joining the Perl and Raku conference this ye
 I had a long journey with Perl and I would like to thank you all for your efforts in maintaining packages, documentations, and helping people.
 
 
-📑 **[Slides](https://github.com/telatin/learnperl/blob/master/TPRCiC/bioconda_slides.pdf)**
+
+See also:
+
+* 📑 **[Slides](https://github.com/telatin/learnperl/blob/master/TPRCiC/bioconda_slides.pdf)**
+* :link: [Anaconda.org docs](https://docs.anaconda.com/anaconda-cloud/user-guide/tasks/work-with-packages/)
 
 
 ---
