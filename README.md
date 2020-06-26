@@ -1,7 +1,7 @@
 Conference in the Cloud (A Perl and Raku Conference) 2020 - Lightning Talk
 
-* [Talk: distributing a Perl module via Bioconda](#Distributing-a-Perl-module-via-Bioconda)
-* [Extra: a Perl module that avoided coding a mobile app](#A-Perl-module-that-helped-me-interacting-with-a-device)
+* [Jun 25: distributing a Perl module via Bioconda](#Distributing-a-Perl-module-via-Bioconda)
+* [Jun 26: a Perl module that avoided coding a mobile app](#A-Perl-module-that-helped-me-interacting-with-a-device)
 
 # Distributing a Perl module via Bioconda
 
